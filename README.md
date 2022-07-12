@@ -4,7 +4,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:norivaljunior.jf@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/norival.jr/)
 
+<br />
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Norival GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorNorival&show_icons=true&hide_border=true" />
+
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Norival GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorNorival" />
+
+<br />
+----
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -17,16 +27,6 @@
 <br />
 ---
 
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Norival GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorNorival&show_icons=true&hide_border=true" />
-
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Norival GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorNorival" />
-
-</details>
 
 
