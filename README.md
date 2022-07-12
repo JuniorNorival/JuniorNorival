@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/norival.jr/)
 
 <br />
+----
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Norival GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorNorival&show_icons=true&hide_border=true" />
@@ -13,6 +14,7 @@
 
 <img align="left" alt="Norival GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorNorival" />
 
+<br />
 <br />
 ----
 ### Languages and Tools:
